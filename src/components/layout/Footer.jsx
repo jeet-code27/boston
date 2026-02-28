@@ -163,7 +163,7 @@ export default function Footer() {
 
                     {/* CTA */}
                     <a
-                        href="tel:8888007181"
+                        href="tel:123654789"
                         className="mt-2 inline-flex items-center justify-center px-6 py-2.5 rounded-full bg-[#0a802c] hover:bg-[#076622] text-white text-sm font-semibold transition-colors duration-200 no-underline"
                     >
                         Book a Service
